@@ -1,1 +1,2 @@
-print ("hello world!")
+print ("hello test!")
+print("this is a sample repository")
